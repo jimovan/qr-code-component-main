@@ -78,6 +78,7 @@ body {
     font-family: var(--ff-regular);
     font-weight: var(--fw-regular);
     color: var(--clr-primary);
+    font-size: 16px;
 
     display: grid;
     place-content: center;
@@ -107,8 +108,4 @@ body {
 
 .card__title {
     color: var(--clr-secondary);
-}
-
-.card__description {
-    font-size: 15px;
 }
