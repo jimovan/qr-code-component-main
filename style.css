@@ -71,7 +71,7 @@ h6 {
 
 footer {
     margin: 2rem;
-  }
+}
 
 body {
     background-color: var(--clr-background);
@@ -93,17 +93,18 @@ body {
     border-radius: 1.25rem;
     gap: 1.5rem;
     text-align: center;
+    box-shadow: 5px 5px 40px #afafaf;
 }
 
 .card__img {
     border-radius: 1rem;
-}   
+}
 
 .card__content {
     display: grid;
     gap: 1rem;
     text-align: center;
-    padding: 0rem 0.75rem 1rem 0.75rem;
+    padding: 0rem 1rem 1rem 1rem;
 }
 
 .card__title {
